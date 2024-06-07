@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 first stage Landing Predictio
+# SpaceX Falcon 9 first stage Landing Prediction
 
 In this capstone project-[IBM-Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone), the successful landing of the Falcon 9 first stage is predicted. Data on Falcon 9 first-stage landings is collected using a RESTful API and web scraping. 
 The collected data is converted into a dataframe and then subjected to data wrangling.
